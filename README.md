@@ -1,1 +1,1 @@
-# primes.py
+# prime.py
