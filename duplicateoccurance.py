@@ -1,10 +1,8 @@
 test_str = 'Gfg is best . Gfg also has Classes now. \
                 Classes help understand better . '
   
-# printing original string
 print("The original string is : " + str(test_str))
   
-# initializing replace mapping 
 repl_dict = {'Gfg' :  'It', 'Classes' : 'They' }
   
 # Replace duplicate Occurrence in String
